@@ -13,7 +13,7 @@ I am passionate about creating projects that are clean and careful in detail.
 
 😄 **A little about me**
 
-- I am from Costa Rica 🇨🇷 Pura Vida my friend!.
+- I am from Costa Rica 🇨🇷 Pura Vida!.
 - I’m currently working on my final project at the Digital Career Institute (DCI) in Germany 🇩🇪.
 - I am also a trained journalist with a special motivation for the use of new technologies.
 - I’m looking to collaborate and learn everyday new things, so let's talk, I am always happy to meet people. 👍
