@@ -7,11 +7,7 @@ I am passionate about creating projects that are clean and careful in detail.
 <p align="left">
 <a href="https://www.linkedin.com/in/mauriciolizama">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-</a>  
-<a href="https://mlizama11.github.io/portfolio/" >
-  <img src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=appveyor&logoColor=white" />
 </a>
-</p>
 
 😄 **A little about me**
 
