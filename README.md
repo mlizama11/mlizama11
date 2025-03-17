@@ -25,7 +25,7 @@ I am passionate about creating projects that are clean and careful in detail.
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=CC6699)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-333333?&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 
