@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Mauricio Lizama!
 
-I am passionate about creating projects that are clean and careful in detail.
+I am a Web Developer with four years of practical experience in software application development. I am enthusiastic about communication and I firmly believe that teamwork, fun and dedication are vital for achieving successful results.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mauriciolizama">
@@ -11,10 +11,10 @@ I am passionate about creating projects that are clean and careful in detail.
 
 😄 **A little about me**
 
-- I am from Costa Rica 🇨🇷 Pura Vida my friend!
-- I’m currently working at I Planted GmbH, Cologne.
+- I am from Costa Rica 🇨🇷, Pura Vida my friend! I have also family roots from Chile 🇨🇱 and France 🇫🇷.
+- From late 2021 to mid-2025, I worked at I Planted GmbH, Cologne.
 - In 2021, I graduated as Web Developer from the Digital Career Institute (DCI) in Germany 🇩🇪.
-- I am also a trained journalist with a special motivation for the use of new technologies.
+- I am also a trained journalist with a special motivation for the communication and the use of new technologies.
 
 ## Tech Stack
 
