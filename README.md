@@ -11,7 +11,7 @@ I am a Web Developer with four years of practical experience in software applica
 
 😄 **A little about me**
 
-- I am from Costa Rica 🇨🇷, Pura Vida my friend! I have also family roots from Chile 🇨🇱 and France 🇫🇷.
+- I am from Costa Rica 🇨🇷, Pura Vida my friend! I also have family roots from Chile 🇨🇱 and France 🇫🇷.
 - From late 2021 to mid-2025, I worked at I Planted GmbH, Cologne.
 - In 2021, I graduated as Web Developer from the Digital Career Institute (DCI) in Germany 🇩🇪.
 - I am also a trained journalist with a special motivation for the communication and the use of new technologies.
