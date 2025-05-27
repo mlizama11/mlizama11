@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Mauricio Lizama!
 
-I am a Web Developer with four years of practical experience in software application development. I am enthusiastic about communication and I firmly believe that teamwork, fun and dedication are vital for achieving successful results.
+I am a Web Developer with four years of hands-on experience in software application development. I am enthusiastic about communication, and I firmly believe that teamwork, fun, and commitment are key to achieving successful results.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mauriciolizama">
