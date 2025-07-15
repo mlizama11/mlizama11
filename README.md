@@ -13,7 +13,7 @@ I am a Web Developer with four years of hands-on experience in software applicat
 
 - I am from Costa Rica 🇨🇷, Pura Vida my friend! I also have family roots from Chile 🇨🇱 and France 🇫🇷.
 - From late 2021 to mid-2025, I worked at I Planted GmbH, Cologne.
-- In 2021, I graduated as Web Developer from the Digital Career Institute (DCI) in Germany 🇩🇪.
+- From late 2020 to 2021, I study and graduated as Fullstack Web Developer (MERN Stack) from the Digital Career Institute (DCI) in Germany 🇩🇪.
 - I am also a trained journalist with a special motivation for the communication and the use of new technologies.
 
 ## Tech Stack
