@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Mauricio Lizama!
 
-I am a Full Stack Web and Software Developer with four years of hands-on experience in software application development. I am enthusiastic about communication, and I firmly believe that teamwork, fun, and commitment are key to achieving successful results.
+I am a Full Stack Developer with four years of hands-on experience in software application development. I am enthusiastic about communication, and I firmly believe that teamwork, fun, and commitment are key to achieving successful results. I am also a trained journalist with a special motivation for the use of new technologies.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mauriciolizama">
@@ -37,6 +37,8 @@ I am a Full Stack Web and Software Developer with four years of hands-on experie
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Contentful](https://img.shields.io/badge/-Contentful-333333?style=flat&logo=contentful)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
