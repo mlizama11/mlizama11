@@ -20,6 +20,7 @@ I am a Full Stack Developer with four years of hands-on experience in software a
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
@@ -37,7 +38,6 @@ I am a Full Stack Developer with four years of hands-on experience in software a
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Contentful](https://img.shields.io/badge/-Contentful-333333?style=flat&logo=contentful)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
