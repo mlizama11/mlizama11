@@ -2,19 +2,18 @@
 
 ## 👋 Hello, I'm Mauricio Lizama!
 
-I am a Full Stack Developer with four years of hands-on experience in software application development. I am enthusiastic about communication, and I firmly believe that teamwork, fun, and commitment are key to achieving successful results. I am also a trained journalist with a special motivation for the use of new technologies.
+I am a Full Stack Developer with expertise in TypeScript, React and NestJS. With four years of practical experience in software development, I have developed products while always considering scalability, maintainability, performance, user-friendliness, and responsiveness. Additionally, I am also a professional journalist with a strong motivation for the use of new technologies. I am particularly interested in sustainable development, the environment, nature conservation, politics, and ecotourism.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mauriciolizama">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mauriciolizama)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=next.js)](https://mlizama.eu)
+
+##
 
 😄 **A little about me**
 
 - I am from Costa Rica 🇨🇷, Pura Vida my friend! I also have family roots from Chile 🇨🇱 and France 🇫🇷.
 - From late 2021 to mid-2025, I worked at I Planted GmbH, Cologne.
 - From late 2020 to 2021, I study and graduated as Full Stack Developer (MERN Stack) from the Digital Career Institute (DCI) in Germany 🇩🇪.
-- I am also a trained journalist with a special motivation for the communication and the use of new technologies.
 
 ## Tech Stack
 
