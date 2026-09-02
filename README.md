@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer · Communications Specialist
 
-I am a full-stack developer skilled in TypeScript, React, and NestJS, with professional experience in software development since 2021. Also, as a professional journalist, I have strong skills in communications. I’m passionate about sustainable development, nature conservation, politics, and ecotourism.
+I am a full-stack developer skilled in **TypeScript**, **React**, and **NestJS**, with professional experience in software development since 2021. Also, as a professional journalist, I have strong skills in communications. I’m passionate about sustainable development, nature conservation, politics, and ecotourism.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mauriciolizama)
 [![XING](https://img.shields.io/badge/XING-006567?style=flat&logo=xing&logoColor=fff)](https://www.xing.com/profile/Mauricio_Lizama/web_profiles)
