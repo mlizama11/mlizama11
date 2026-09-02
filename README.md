@@ -15,7 +15,7 @@ I am a full-stack developer skilled in **TypeScript**, **React**, and **NestJS**
 ## About Me
 
 - I was born in Costa Rica 🇨🇷, Pura Vida my friend!
-- I also have family roots from Chile 🇨🇱 and France 🇫🇷.
+- I have also family roots from Chile 🇨🇱 and France 🇫🇷.
 - From late 2021 to mid-2025, I worked at I Planted GmbH in Cologne.
 - From late 2020 to 2021, I studied and graduated as a full-stack developer (MERN stack) at the Digital Career Institute (DCI) in Germany 🇩🇪.
 
@@ -56,7 +56,7 @@ I am a full-stack developer skilled in **TypeScript**, **React**, and **NestJS**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-### Tools
+#### Tools
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
