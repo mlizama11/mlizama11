@@ -22,7 +22,7 @@ I am a full-stack developer skilled in **TypeScript**, **React**, and **NestJS**
 ## Currently Learning
 
 - 🇩🇪 Learning German with the goal of reaching the B2 level.
-- 📚 Taking courses on [master.dev](https://master.dev/dashboard/) to improve my frontend, backend, DevOps, PHP, AI, and Vue skills.
+- 📚 Taking courses on [master.dev](https://master.dev/dashboard/) to improve my frontend and backend skills in topics such as Python, DevOps, PHP, AI, Angular, Vue, among others.
 
 ## Tech Stack
 
